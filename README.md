@@ -8,3 +8,6 @@
 #### DP-Net is published on Nations of the Americas Chapter of the Association for Computational Linguistics （25‘NAACL）[(paper link)](update soon！)
 
 ### -----The  AIGT Evading Detection----
+
+
+### If you have any questions, please contact us immediately by the e-mail(cau_iss@163.com)
