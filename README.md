@@ -9,5 +9,7 @@
 
 ### -----The  AIGT Evading Detection----
 
+#### The SDA is the code of the preprint paper "Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion" on the arXiv.
+
 
 ### If you have any questions, please contact us immediately by the e-mail(cau_iss@163.com)
